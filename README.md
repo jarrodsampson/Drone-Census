@@ -19,15 +19,9 @@
 
 ![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/screenH.png?raw=true)
 
-### Homepage
-- New lists and artists that are updated upon each visit.
-- View latest mixes, along with the most popular ones as well.
-- Get a snapshot of the top active users.
-- Stay up to date with the msot popular mixes internationally, based on region and popular cities.
-
-### Your Hood
-- Search your city for mixes based on your location
-- Find other mixes and cloudcasts by city.
+### Statistics
+- Made using D3 charts.
+- Charts based on number of deaths vs. strike number, geared towards civilians and children caught in cross fire.
 
 ![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/ScreenI.png?raw=true)
 
