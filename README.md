@@ -1,34 +1,21 @@
 # Drone Census
 
-Find awesome cloudcasts roaming the world. Right now. Built on Node, SASS, React, Redux, MaterializeCSS, along with MixCloud's API. Designed by [planlodge](https://planlodge.com).
-
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
 ![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 
 ## Description
 
-> Find awesome cloudcasts roaming the world. Right now. Discover artists from all over the planet in any genere of music. Search by artists, genre, or city to find that awesome cloudcasts you've been waiting on.
+> Get updates on the most recent and historical drone strikes conducted by the United States Government. Built on Node, SASS, React, Redux, MaterializeCSS, along with Dronestre.am's API. Designed by [planlodge](https://planlodge.com).
 
 ![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/ScreenJ.png?raw=true)
 
 ## Updates and News
 
-### Version 1.2.3 Updates
-- API Call Corrections
-- UI Layout fixes
-- Error Handling and 404 page update
-- Slideshow additions and new fonts
-
-## Features
-
-### Users
-- View user followers, following, cloudcasts, listeners, and comments.
-- Parallax scrolling on user profile page along with user detail panel
-- View user feed of most recent activity.
-### Music
-- Suggested music based on mix listen choice.
-- View listeners and other users who have favorited the same mix.
+### Version 1.1 Updates
+- Scatterplot charts containing the number of reported deaths of targets, civilians, and children.
+- Get the full list of drone strikes conducted by the US government.
+- View articles and twitter posts about the strike.
 
 ![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/screenH.png?raw=true)
 
