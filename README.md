@@ -30,7 +30,7 @@ Find awesome cloudcasts roaming the world. Right now. Built on Node, SASS, React
 - Suggested music based on mix listen choice.
 - View listeners and other users who have favorited the same mix.
 
-![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/ScreenH.png?raw=true)
+![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/screenH.png?raw=true)
 
 ### Homepage
 - New lists and artists that are updated upon each visit.
@@ -42,7 +42,7 @@ Find awesome cloudcasts roaming the world. Right now. Built on Node, SASS, React
 - Search your city for mixes based on your location
 - Find other mixes and cloudcasts by city.
 
-![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen3.png?raw=true)
+![Image](https://github.com/planlodge/Drone-Census/blob/master/screenshots/ScreenI.png?raw=true)
 
 ## License
 
